@@ -1,0 +1,12 @@
+containers
+
+docker images
+
+docker ps 
+
+docker ps -a
+
+docker run -itd ubuntu
+
+written instruction of docker file is created as docker image
+docker image is static image
