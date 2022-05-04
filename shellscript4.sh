@@ -9,3 +9,12 @@ echo -e "enter second_number:\c"
 read second_number
 sum= $(($first_number + $second_number))
 echo "sum of $first_number and $second_number is: $sum"
+
+
+
+#!/bin/bash
+a=10
+b=20
+ 
+sum=$(( $a + $b ))
+echo "Sum is: $sum"
